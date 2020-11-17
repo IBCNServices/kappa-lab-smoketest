@@ -6,6 +6,6 @@
 	],
 	"settings": {
 		"jupyter.allowUnauthorizedRemoteConnection": true,
-		"jupyter.ignoreVscodeTheme": true,
 	}
 }
+
