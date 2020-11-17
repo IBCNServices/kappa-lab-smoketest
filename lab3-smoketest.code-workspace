@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"jupyter.allowUnauthorizedRemoteConnection": true,
+		"files.insertFinalNewline": true,
+		"files.trimFinalNewlines": true,
 	}
 }
-
