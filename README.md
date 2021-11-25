@@ -17,7 +17,7 @@ This repository contains the smoke test for lab 3.
    1. Choose "Open Current Folder in Container",
    1. The container will be automatically created based on the configuration included in the lab files.
 1. Wait until the container is set up. This can take a few minutes because the container needs to be pulled and built. You can check the progress by clicking "Starting Dev Container (show log)" in the notification on the bottom right of VSCode.
-1. When the containers are setup, open `smoketest.ipynb` and press "run all cells".
+1. When the containers are setup, open `smoketest.ipynb` and press "run all cells". If asked, choose the Python kernel "base (Python 3.9.7)" in `/opt/conda/bin/python`.
 1. Wait a while until all cells finish. If no errors show up, everything is OK!
 
 ## Copyright
